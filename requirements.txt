@@ -1,3 +1,11 @@
+pandas
+numpy
+requests
+ccxt
+ta
+scikit-learn
 flask
-transformers
+websocket-client
+tensorflow
 torch
+transformers
